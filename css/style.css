@@ -334,7 +334,7 @@ p{
     padding: 15px 10px 0px;
 }
 .products .img-overlay a i:hover{
-    color: #435052;
+    color: #c4c8c9;
 }
 .products .product-card:hover .img-overlay{
     visibility: visible;
